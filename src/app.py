@@ -39,40 +39,40 @@ activities = {
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
     },
-    "Soccer Club": {
-        "description": "Practice soccer skills and compete in friendly matches",
+    "Basketball Club": {
+        "description": "Practice basketball skills and play team games",
         "schedule": "Tuesdays, 3:30 PM - 5:00 PM",
-        "max_participants": 22,
+        "max_participants": 20,
         "participants": []
     },
-    "Basketball Club": {
-        "description": "Develop basketball skills and play team games",
+    "Soccer Club": {
+        "description": "Develop soccer skills and compete in friendly matches",
         "schedule": "Thursdays, 3:30 PM - 5:00 PM",
-        "max_participants": 15,
+        "max_participants": 22,
         "participants": []
     },
     "Art Club": {
         "description": "Explore drawing, painting, and other visual arts",
-        "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
+        "schedule": "Mondays, 3:30 PM - 5:00 PM",
         "max_participants": 18,
         "participants": []
     },
     "Drama Club": {
-        "description": "Practice acting and put on stage performances",
-        "schedule": "Mondays, 3:30 PM - 5:00 PM",
-        "max_participants": 20,
+        "description": "Practice acting and produce school theater performances",
+        "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 24,
         "participants": []
     },
     "Debate Club": {
-        "description": "Build research, reasoning, and public speaking skills",
-        "schedule": "Fridays, 3:30 PM - 5:00 PM",
+        "description": "Build public speaking and critical thinking skills through debate",
+        "schedule": "Mondays, 3:30 PM - 4:30 PM",
         "max_participants": 16,
         "participants": []
     },
     "Science Club": {
-        "description": "Explore scientific ideas through experiments and projects",
-        "schedule": "Thursdays, 3:30 PM - 5:00 PM",
-        "max_participants": 16,
+        "description": "Explore scientific topics through experiments and projects",
+        "schedule": "Fridays, 3:30 PM - 5:00 PM",
+        "max_participants": 18,
         "participants": []
     }
 }
